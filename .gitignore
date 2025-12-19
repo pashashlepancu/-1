@@ -1,0 +1,5 @@
+Nothing should be ignored based on the provided file changes. The changes consist of:
+- An added Python source file (.py)
+- A modified file with what appears to be encoded/corrupted Cyrillic characters in the filename (not a standard file type that would need ignoring)
+
+No build artifacts, dependencies, temporary files, or other ignorable items are present in the changes.
